@@ -1,3 +1,27 @@
-/*escribe aquíi toooooodo lo que se te antoje*/
-.block{display: block;}
-.pt-5{padding-top: 5%;}
+#back1 {
+	background-image: url("../img/back.jpg");
+}
+
+#imgback-1 {
+	background-image: url("../img/1.png");
+}
+
+#imgback-2 {
+	background-image: url("../img/2.png");
+}
+
+#imgback-3 {
+	background-image: url("../img/3.png");
+}
+
+#imgback-4 {
+	background-image: url("../img/4.png");
+}
+
+.imgsize {
+	background-image: url("../image/img8.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 100px;
+	height: 100px;	
+}
